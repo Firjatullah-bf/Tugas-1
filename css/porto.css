@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: black;
+}
+.bio{
+    padding-left: 30px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+tr{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+td{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
